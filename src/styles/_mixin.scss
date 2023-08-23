@@ -1,0 +1,8 @@
+
+@mixin flexbox{
+    display: flex;
+    justify-content: space-between;
+}
+@mixin padding{
+    padding: 1rem clamp(2rem, 6vw, 8rem);
+}
