@@ -2,7 +2,6 @@
 const About = () =>{
     return(
         <>
-        <h1>rpoiuytrf</h1>
         </>
     )
 }

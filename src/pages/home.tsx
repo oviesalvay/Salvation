@@ -1,7 +1,7 @@
 
 const Home = () =>{
     return(
-        <h1>Salvation Ovie</h1>
+        <h4>kjh</h4>
     )
 }
 export default Home;
