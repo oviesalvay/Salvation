@@ -1,7 +1,10 @@
 
 const Home = () =>{
     return(
-        <h4>kjh</h4>
+        <>
+        <h1>Salvation Ovie</h1>
+        <h2>Frontend Developer <br></br> based in Lagos, Nigeria</h2>
+        </>
     )
 }
 export default Home;
